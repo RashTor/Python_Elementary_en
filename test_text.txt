@@ -1,0 +1,5 @@
+The  main goal of this course is to learn base syntax of the language.
+It was designed to get you started with python development as quickly as possible.
+Please note that this course focus only on the language itself for more advanced training feel free to check out python base course and Django course.
+The course is divided into 5 days; each day consists of the three parts: Required exercises, Additional exercises and things you need to know. Required exercises is the minimal amount of practice you should do to pass the course. If you feel that required tasks are too easy for you then feel free to take additional exercises from this day. It is allowed to take an exercise from another day; task difficulty will rise from day to day so manage you capacity over the course.  By the end of the day you should know a number of key topics in Python, go through the things you need to know to check yourself.
+Feel free to send any ideas and thoughts about the course to training. Python email list.
